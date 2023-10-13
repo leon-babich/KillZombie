@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameArea.qml</file>
+        <file>Target.qml</file>
+        <file>Logic.js</file>
+        <file>InfoBar.qml</file>
+        <file>Bullet.qml</file>
+        <file>Gun.qml</file>
+        <file>BloodEffect.qml</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>Graphics/Target.png</file>
+        <file>Graphics/bullet-1.png</file>
+        <file>Graphics/bullet-2.png</file>
+        <file>Graphics/bullet-3.png</file>
+        <file>Graphics/bullet-4.png</file>
+        <file>Graphics/bullet-5.png</file>
+        <file>Graphics/bullet-6.png</file>
+        <file>Graphics/gun-4.png</file>
+        <file>Graphics/zomby-2.png</file>
+        <file>Graphics/blood.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>Sounds/sound_shot.wav</file>
+    </qresource>
+</RCC>
